@@ -1,0 +1,41 @@
+﻿<Window x:Class="SmartMirror.NewsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartMirror"
+        mc:Ignorable="d"
+        Topmost="True"
+       AllowsTransparency="True"
+        Background="{x:Null}"
+        Title="NewsWindow" Height="1024" Width="1280" WindowState="Maximized" ResizeMode="NoResize" WindowStyle="None">
+    <Border Name="t_news" Width="600" Height="300" BorderBrush="Transparent" CornerRadius="10" Background="#33000000">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="9*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="10"/>
+                </Grid.ColumnDefinitions>
+                <Button Content="속보" Grid.Column="1" BorderBrush="Transparent" Click="flash_click" Background="Transparent" Foreground="White"/>
+                <Button Content="정치" Grid.Column="2" BorderBrush="Transparent" Click="politics_click" Background="Transparent" Foreground="White"/>
+                <Button Content="경제" Grid.Column="3" BorderBrush="Transparent" Click="economy_click" Background="Transparent" Foreground="White"/>
+                <Button Content="사회" Grid.Column="4" BorderBrush="Transparent" Click="society_click" Background="Transparent" Foreground="White"/>
+                <Button Content="국제" Grid.Column="5" BorderBrush="Transparent" Click="international_click" Background="Transparent" Foreground="White"/>
+                <Button Content="문화" Grid.Column="6" BorderBrush="Transparent" Click="culture_click" Background="Transparent" Foreground="White"/>
+            </Grid>
+
+            <WrapPanel Grid.Row="1" x:Name="news_items"/>
+        </Grid>
+    </Border>
+</Window>

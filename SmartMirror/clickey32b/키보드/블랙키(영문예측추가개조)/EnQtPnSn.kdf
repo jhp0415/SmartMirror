@@ -1,0 +1,1074 @@
+Version     = 3.0
+Width       = 510
+Height      = 179
+FontSize    =  12
+Prediction  = true
+Language    = IL_ENGLISH
+Description = "영문 쿼티"
+
+Key {
+  code   = 1,
+  type   = TK_STRING,
+  pos    = {left = 2, top = 6, width = 62, height = 22, },
+  stroke = "",
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 1, },
+}
+
+Key {
+  code   = 2,
+  type   = TK_STRING,
+  pos    = {left = 66, top = 6, width = 62, height = 22, },
+  stroke = "", 
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 1, },
+}
+
+Key {
+  code   = 3,
+  type   = TK_STRING,
+  pos    = {left = 130, top = 6, width = 62, height = 22, },
+  stroke = "",
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 1, },
+}
+
+Key {
+  code   = 4,
+  type   = TK_STRING,
+  pos    = {left = 194, top = 6, width = 62, height = 22, },
+  stroke = "",
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 1, },
+}
+
+Key {
+  code   = 5,
+  type   = TK_STRING,
+  pos    = {left = 258, top = 6, width = 62, height = 22, },
+  stroke = "",
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 2, },
+}
+
+Key {
+  code   = 6,
+  type   = TK_STRING,
+  pos    = {left = 322, top = 6, width = 62, height = 22, },
+  stroke = "",
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 2, },
+}
+
+Key {
+  code   = 7,
+  type   = TK_STRING,
+  pos    = {left = 386, top = 6, width = 60, height = 22, },
+  stroke = "",
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 2, },
+}
+
+Key {
+  code   = 8,
+  type   = TK_STRING,
+  pos    = {left = 448, top = 6, width = 60, height = 22, },
+  stroke = "",
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 2, },
+}
+
+Key {
+  code   = 27,
+  type   = 0,
+  pos    = {left = 2, top = 34, width = 30, height = 22, },
+  stroke = "{ESC}",
+  label  = {ncns = "Esc", ncys = "Esc", ycns = "Esc", ycys = "Esc", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 1, },
+}
+
+Key {
+  code   = 112,
+  type   = 0,
+  pos    = {left = 54, top = 34, width = 24, height = 22, },
+  stroke = "{F1}",
+  label  = {ncns = "F1", ncys = "F1", ycns = "F1", ycys = "F1", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 1, },
+}
+
+Key {
+  code   = 113,
+  type   = 0,
+  pos    = {left = 80, top = 34, width = 24, height = 22, },
+  stroke = "{F2}",
+  label  = {ncns = "F2", ncys = "F2", ycns = "F2", ycys = "F2", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 1, },
+}
+
+Key {
+  code   = 114,
+  type   = 0,
+  pos    = {left = 106, top = 34, width = 24, height = 22, },
+  stroke = "{F3}",
+  label  = {ncns = "F3", ncys = "F3", ycns = "F3", ycys = "F3", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 1, },
+}
+
+Key {
+  code   = 115,
+  type   = 0,
+  pos    = {left = 132, top = 34, width = 24, height = 22, },
+  stroke = "{F4}",
+  label  = {ncns = "F4", ncys = "F4", ycns = "F4", ycys = "F4", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 1, },
+}
+
+Key {
+  code   = 116,
+  type   = 0,
+  pos    = {left = 171, top = 34, width = 24, height = 22, },
+  stroke = "{F5}",
+  label  = {ncns = "F5", ncys = "F5", ycns = "F5", ycys = "F5", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 1, },
+}
+
+Key {
+  code   = 117,
+  type   = 0,
+  pos    = {left = 197, top = 34, width = 24, height = 22, },
+  stroke = "{F6}",
+  label  = {ncns = "F6", ncys = "F6", ycns = "F6", ycys = "F6", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 2, },
+}
+
+Key {
+  code   = 118,
+  type   = 0,
+  pos    = {left = 223, top = 34, width = 24, height = 22, },
+  stroke = "{F7}",
+  label  = {ncns = "F7", ncys = "F7", ycns = "F7", ycys = "F7", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 2, },
+}
+
+Key {
+  code   = 119,
+  type   = 0,
+  pos    = {left = 249, top = 34, width = 24, height = 22, },
+  stroke = "{F8}",
+  label  = {ncns = "F8", ncys = "F8", ycns = "F8", ycys = "F8", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 2, },
+}
+
+Key {
+  code   = 120,
+  type   = 0,
+  pos    = {left = 288, top = 34, width = 24, height = 22, },
+  stroke = "{F9}",
+  label  = {ncns = "F9", ncys = "F9", ycns = "F9", ycys = "F9", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 2, },
+}
+
+Key {
+  code   = 121,
+  type   = 0,
+  pos    = {left = 314, top = 34, width = 24, height = 22, },
+  stroke = "{F10}",
+  label  = {ncns = "F10", ncys = "F10", ycns = "F10", ycys = "F10", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 2, },
+}
+
+Key {
+  code   = 122,
+  type   = 0,
+  pos    = {left = 340, top = 34, width = 24, height = 22, },
+  stroke = "{F11}",
+  label  = {ncns = "F11", ncys = "F11", ycns = "F11", ycys = "F11", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 2, },
+}
+
+Key {
+  code   = 123,
+  type   = 0,
+  pos    = {left = 366, top = 34, width = 24, height = 22, },
+  stroke = "{F12}",
+  label  = {ncns = "F12", ncys = "F12", ycns = "F12", ycys = "F12", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 2, },
+}
+
+Key {
+  code   = 44,
+  type   = TK_EXTENDED,
+  pos    = {left = 402, top = 34, width = 34, height = 22, },
+  stroke = "{PrtSc}",  
+  label  = {ncns = "Print", ncys = "Print", ycns = "Print", ycys = "Print", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 3, },
+}
+
+Key {
+  code   = 145,
+  type   = TK_TOGGLE,
+  pos    = {left = 438, top = 34, width = 34, height = 22, },
+  stroke = "{ScrollLock}", 
+  label  = {ncns = "Scroll", ncys = "Scroll", ycns = "Scroll", ycys = "Scroll", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 3, },
+}
+
+Key {
+  code   = 19,
+  type   = TK_EXTENDED,
+  pos    = {left = 474, top = 34, width = 34, height = 22, },
+  stroke = "{Break}",
+  label  = {ncns = "Break", ncys = "Break", ycns = "Break", ycys = "Break", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 2, block = 3, },
+}
+
+Key {
+  code   = 192,
+  type   = 0,
+  pos    = {left = 2, top = 58, width = 24, height = 22, },
+  stroke = "`",
+  label  = {ncns = "`", ncys = "~", ycns = "`", ycys = "~", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 1, },
+}
+
+Key {
+  code   = 49,
+  type   = 0,
+  pos    = {left = 28, top = 58, width = 24, height = 22, },
+  stroke = "1",
+  label  = {ncns = "1", ncys = "!", ycns = "1", ycys = "!", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 1, },
+}
+
+Key {
+  code   = 50,
+  type   = 0,
+  pos    = {left = 54, top = 58, width = 24, height = 22, },
+  stroke = "2",
+  label  = {ncns = "2", ncys = "@", ycns = "2", ycys = "@", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 1, },
+}
+
+Key {
+  code   = 51,
+  type   = 0,
+  pos    = {left = 80, top = 58, width = 24, height = 22, },
+  stroke = "3",
+  label  = {ncns = "3", ncys = "#", ycns = "3", ycys = "#", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 1, },
+}
+
+Key {
+  code   = 52,
+  type   = 0,
+  pos    = {left = 106, top = 58, width = 24, height = 22, },
+  stroke = "4",
+  label  = {ncns = "4", ncys = "$", ycns = "4", ycys = "$", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 1, },
+}
+
+Key {
+  code   = 53,
+  type   = 0,
+  pos    = {left = 132, top = 58, width = 24, height = 22, },
+  stroke = "5",
+  label  = {ncns = "5", ncys = "%", ycns = "5", ycys = "%", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 2, },
+}
+
+Key {
+  code   = 54,
+  type   = 0,
+  pos    = {left = 158, top = 58, width = 24, height = 22, },
+  stroke = "6",
+  label  = {ncns = "6", ncys = "^", ycns = "6", ycys = "^", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 2, },
+}
+
+Key {
+  code   = 55,
+  type   = 0,
+  pos    = {left = 184, top = 58, width = 24, height = 22, },
+  stroke = "7",
+  label  = {ncns = "7", ncys = "&", ycns = "7", ycys = "&", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 2, },
+}
+
+Key {
+  code   = 56,
+  type   = 0,
+  pos    = {left = 210, top = 58, width = 24, height = 22, },
+  stroke = "8",
+  label  = {ncns = "8", ncys = "*", ycns = "8", ycys = "*", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 2, },
+}
+
+Key {
+  code   = 57,
+  type   = 0,
+  pos    = {left = 236, top = 58, width = 24, height = 22, },
+  stroke = "9",
+  label  = {ncns = "9", ncys = "(", ycns = "9", ycys = "(", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 2, },
+}
+
+Key {
+  code   = 48,
+  type   = 0,
+  pos    = {left = 262, top = 58, width = 24, height = 22, },
+  stroke = "0",
+  label  = {ncns = "0", ncys = ")", ycns = "0", ycys = ")", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 3, },
+}
+
+Key {
+  code   = 189,
+  type   = 0,
+  pos    = {left = 288, top = 58, width = 24, height = 22, },
+  stroke = "-",
+  label  = {ncns = "-", ncys = "_", ycns = "-", ycys = "_", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 3, },
+}
+
+Key {
+  code   = 187,
+  type   = 0,
+  pos    = {left = 314, top = 58, width = 24, height = 22, },
+  stroke = "=",
+  label  = {ncns = "=", ncys = "+", ycns = "=", ycys = "+", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 3, },
+}
+
+Key {
+  code   = 8,
+  type   = 0,
+  pos    = {left = 340, top = 58, width = 50, height = 22, },
+  stroke = "{Bs}",
+  label  = {ncns = "←", ncys = "←", ycns = "←", ycys = "←", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 3, },
+}
+
+Key {
+  code   = 45,
+  type   = TK_EXTENDED,
+  pos    = {left = 402, top = 58, width = 34, height = 22, },
+  stroke = "{Insert}",
+  label  = {ncns = "Ins", ncys = "Ins", ycns = "Ins", ycys = "Ins", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 4, },
+}
+
+Key {
+  code   = 36,
+  type   = TK_EXTENDED,
+  pos    = {left = 438, top = 58, width = 34, height = 22, },
+  stroke = "{Home}",
+  label  = {ncns = "Home", ncys = "Home", ycns = "Home", ycys = "Home", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 4, },
+}
+
+Key {
+  code   = 33,
+  type   = TK_EXTENDED,
+  pos    = {left = 474, top = 58, width = 34, height = 22, },
+  stroke = "{PgUp}",
+  label  = {ncns = "PgUp", ncys = "PgUp", ycns = "PgUp", ycys = "PgUp", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 3, block = 4, },
+}
+
+Key {
+  code   = 9,
+  type   = 0,
+  pos    = {left = 2, top = 82, width = 42, height = 22, },
+  stroke = "{Tab}",
+  label  = {ncns = "Tab", ncys = "Tab", ycns = "Tab", ycys = "Tab", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 1, },
+}
+
+Key {
+  code   = 81,
+  type   = 0,
+  pos    = {left = 46, top = 82, width = 24, height = 22, },
+  stroke = "q",
+  label  = {ncns = "q", ncys = "Q", ycns = "Q", ycys = "q", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 1, },
+}
+
+Key {
+  code   = 87,
+  type   = 0,
+  pos    = {left = 72, top = 82, width = 24, height = 22, },
+  stroke = "w",
+  label  = {ncns = "w", ncys = "W", ycns = "W", ycys = "w", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 1, },
+}
+
+Key {
+  code   = 69,
+  type   = 0,
+  pos    = {left = 98, top = 82, width = 24, height = 22, },
+  stroke = "e",
+  label  = {ncns = "e", ncys = "E", ycns = "E", ycys = "e", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 1, },
+}
+
+Key {
+  code   = 82,
+  type   = 0,
+  pos    = {left = 124, top = 82, width = 24, height = 22, },
+  stroke = "r",
+  label  = {ncns = "r", ncys = "R", ycns = "R", ycys = "r", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 1, },
+}
+
+Key {
+  code   = 84,
+  type   = 0,
+  pos    = {left = 150, top = 82, width = 24, height = 22, },
+  stroke = "t",
+  label  = {ncns = "t", ncys = "T", ycns = "T", ycys = "t", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 2, },
+}
+
+Key {
+  code   = 89,
+  type   = 0,
+  pos    = {left = 176, top = 82, width = 24, height = 22, },
+  stroke = "y",
+  label  = {ncns = "y", ncys = "Y", ycns = "Y", ycys = "y", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 2, },
+}
+
+Key {
+  code   = 85,
+  type   = 0,
+  pos    = {left = 202, top = 82, width = 24, height = 22, },
+  stroke = "u",
+  label  = {ncns = "u", ncys = "U", ycns = "U", ycys = "u", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 2, },
+}
+
+Key {
+  code   = 73,
+  type   = 0,
+  pos    = {left = 228, top = 82, width = 24, height = 22, },
+  stroke = "i",
+  label  = {ncns = "i", ncys = "I", ycns = "I", ycys = "i", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 2, },
+}
+
+Key {
+  code   = 79,
+  type   = 0,
+  pos    = {left = 254, top = 82, width = 24, height = 22, },
+  stroke = "o",
+  label  = {ncns = "o", ncys = "O", ycns = "O", ycys = "o", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 2, },
+}
+
+Key {
+  code   = 80,
+  type   = 0,
+  pos    = {left = 280, top = 82, width = 24, height = 22, },
+  stroke = "p",
+  label  = {ncns = "p", ncys = "P", ycns = "P", ycys = "p", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 2, },
+}
+
+Key {
+  code   = 219,
+  type   = 0,
+  pos    = {left = 306, top = 82, width = 24, height = 22, },
+  stroke = "[",
+  label  = {ncns = "[", ncys = "{", ycns = "[", ycys = "{", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 3, },
+}
+
+Key {
+  code   = 221,
+  type   = 0,
+  pos    = {left = 332, top = 82, width = 24, height = 22, },
+  stroke = "]",
+  label  = {ncns = "]", ncys = "}", ycns = "]", ycys = "}", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 3, },
+}
+
+Key {
+  code   = 220,
+  type   = 0,
+  pos    = {left = 358, top = 82, width = 32, height = 22, },
+  stroke = "\\",
+  label  = {ncns = "\\", ncys = "|", ycns = "\\", ycys = "|", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 3, },
+}
+
+Key {
+  code   = 46,
+  type   = TK_EXTENDED,
+  pos    = {left = 402, top = 82, width = 34, height = 22, },
+  stroke = "{Del}",
+  label  = {ncns = "Del", ncys = "Del", ycns = "Del", ycys = "Del", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 3, },
+}
+
+Key {
+  code   = 35,
+  type   = TK_EXTENDED,
+  pos    = {left = 438, top = 82, width = 34, height = 22, },
+  stroke = "{End}",
+  label  = {ncns = "End", ncys = "End", ycns = "End", ycys = "End", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 3, },
+}
+
+Key {
+  code   = 34,
+  type   = TK_EXTENDED,
+  pos    = {left = 474, top = 82, width = 34, height = 22, },
+  stroke = "{PgDn}",
+  label  = {ncns = "PgDn", ncys = "PgDn", ycns = "PgDn", ycys = "PgDn", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 3, },
+}
+
+Key {
+  code   = 20,
+  type   = TK_TOGGLE + TK_CHANGEVIEW,
+  pos    = {left = 2, top = 106, width = 50, height = 22, },
+  stroke = "{CapsLock}", 
+  label  = {ncns = "Caps", ncys = "Caps", ycns = "Caps", ycys = "Caps", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 1, },
+}
+
+Key {
+  code   = 65,
+  type   = 0,
+  pos    = {left = 54, top = 106, width = 24, height = 22, },
+  stroke = "a",
+  label  = {ncns = "a", ncys = "A", ycns = "A", ycys = "a", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 1, },
+}
+
+Key {
+  code   = 83,
+  type   = 0,
+  pos    = {left = 80, top = 106, width = 24, height = 22, },
+  stroke = "s",
+  label  = {ncns = "s", ncys = "S", ycns = "S", ycys = "s", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 1, },
+}
+
+Key {
+  code   = 68,
+  type   = 0,
+  pos    = {left = 106, top = 106, width = 24, height = 22, },
+  stroke = "d",
+  label  = {ncns = "d", ncys = "D", ycns = "D", ycys = "d", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 1, },
+}
+
+Key {
+  code   = 70,
+  type   = 0,
+  pos    = {left = 132, top = 106, width = 24, height = 22, },
+  stroke = "f",
+  label  = {ncns = "f", ncys = "F", ycns = "F", ycys = "f", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 1, },
+}
+
+Key {
+  code   = 71,
+  type   = 0,
+  pos    = {left = 158, top = 106, width = 24, height = 22, },
+  stroke = "g",
+  label  = {ncns = "g", ncys = "G", ycns = "G", ycys = "g", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 2, },
+}
+
+Key {
+  code   = 72,
+  type   = 0,
+  pos    = {left = 184, top = 106, width = 24, height = 22, },
+  stroke = "h",
+  label  = {ncns = "h", ncys = "H", ycns = "H", ycys = "h", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 2, },
+}
+
+Key {
+  code   = 74,
+  type   = 0,
+  pos    = {left = 210, top = 106, width = 24, height = 22, },
+  stroke = "j",
+  label  = {ncns = "j", ncys = "J", ycns = "J", ycys = "j", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 2, },
+}
+
+Key {
+  code   = 75,
+  type   = 0,
+  pos    = {left = 236, top = 106, width = 24, height = 22, },
+  stroke = "k",
+  label  = {ncns = "k", ncys = "K", ycns = "K", ycys = "k", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 2, },
+}
+
+Key {
+  code   = 76,
+  type   = 0,
+  pos    = {left = 262, top = 106, width = 24, height = 22, },
+  stroke = "l",  
+  label  = {ncns = "l", ncys = "L", ycns = "L", ycys = "l", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 2, },
+}
+
+Key {
+  code   = 186,
+  type   = 0,
+  pos    = {left = 288, top = 106, width = 24, height = 22, },
+  stroke = ";",
+  label  = {ncns = ";", ncys = ":", ycns = ";", ycys = ":", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 3, },
+}
+
+Key {
+  code   = 222,
+  type   = 0,
+  pos    = {left = 314, top = 106, width = 24, height = 22, },
+  stroke = "'",
+  label  = {ncns = "'", ncys = "\"", ycns = "'", ycys = "\"", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 3, },
+}
+
+Key {
+  code   = 13,
+  type   = 0,
+  pos    = {left = 340, top = 106, width = 50, height = 22, },
+  stroke = "{Enter}", 
+  label  = {ncns = "Enter", ncys = "Enter", ycns = "Enter", ycys = "Enter", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 5, block = 3, },
+}
+
+Key {
+  code   = 16,
+  type   = TK_TOGGLE + TK_CHANGEVIEW,
+  pos    = {left = 2, top = 130, width = 63, height = 22, },
+  stroke = "+",
+  label  = {ncns = "Shift", ncys = "Shift", ycns = "Shift", ycys = "Shift", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 1, },
+}
+
+Key {
+  code   = 90,
+  type   = 0,
+  pos    = {left = 67, top = 130, width = 24, height = 22, },
+  stroke = "z",
+  label  = {ncns = "z", ncys = "Z", ycns = "Z", ycys = "z", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 1, },
+}
+
+Key {
+  code   = 88,
+  type   = 0,
+  pos    = {left = 93, top = 130, width = 24, height = 22, },
+  stroke = "x",
+  label  = {ncns = "x", ncys = "X", ycns = "X", ycys = "x", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 1, },
+}
+
+Key {
+  code   = 67,
+  type   = 0,
+  pos    = {left = 119, top = 130, width = 24, height = 22, },
+  stroke = "c",
+  label  = {ncns = "c", ncys = "C", ycns = "C", ycys = "c", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 1, },
+}
+
+Key {
+  code   = 86,
+  type   = 0,
+  pos    = {left = 145, top = 130, width = 24, height = 22, },
+  stroke = "v",
+  label  = {ncns = "v", ncys = "V", ycns = "V", ycys = "v", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 2, },
+}
+
+Key {
+  code   = 66,
+  type   = 0,
+  pos    = {left = 171, top = 130, width = 24, height = 22, },
+  stroke = "b",
+  label  = {ncns = "b", ncys = "B", ycns = "B", ycys = "b", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 2, },
+}
+
+Key {
+  code   = 78,
+  type   = 0,
+  pos    = {left = 197, top = 130, width = 24, height = 22, },
+  stroke = "n",
+  label  = {ncns = "n", ncys = "N", ycns = "N", ycys = "n", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 2, },
+}
+
+Key {
+  code   = 77,
+  type   = 0,
+  pos    = {left = 223, top = 130, width = 24, height = 22, },
+  stroke = "m",
+  label  = {ncns = "m", ncys = "M", ycns = "M", ycys = "m", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 2, },
+}
+
+Key {
+  code   = 188,
+  type   = 0,
+  pos    = {left = 249, top = 130, width = 24, height = 22, },
+  stroke = ",",
+  label  = {ncns = ",", ncys = "<", ycns = ",", ycys = "<", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 3, },
+}
+
+Key {
+  code   = 190,
+  type   = 0,
+  pos    = {left = 275, top = 130, width = 24, height = 22, },
+  stroke = ".",
+  label  = {ncns = ".", ncys = ">", ycns = ".", ycys = ">", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 3, },
+}
+
+Key {
+  code   = 191,
+  type   = 0,
+  pos    = {left = 301, top = 130, width = 24, height = 22, },
+  stroke = "/",
+  label  = {ncns = "/", ncys = "?", ycns = "/", ycys = "?", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 3, },
+}
+
+Key {
+  code   = 16,
+  type   = TK_TOGGLE + TK_CHANGEVIEW,
+  pos    = {left = 327, top = 130, width = 63, height = 22, },
+  stroke = "+",
+  label  = {ncns = "Shift", ncys = "Shift", ycns = "Shift", ycys = "Shift", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 6, block = 3, },
+}
+
+Key {
+  code   = 0,
+  type   = TK_MACRO,
+  pos    = {left = 402, top = 130, width = 34, height = 22, },
+  stroke = "^c",
+  label  = {ncns = "복사", ncys = "복사", ycns = "복사", ycys = "복사", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 1, },
+}
+
+Key {
+  code   = 0,
+  type   = TK_MACRO,
+  pos    = {left = 438, top = 130, width = 34, height = 22, },
+  stroke = "^x",
+  label  = {ncns = "잘라", ncys = "잘라", ycns = "잘라", ycys = "잘라", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 1, },
+}
+
+Key {
+  code   = 0,
+  type   = TK_MACRO,
+  pos    = {left = 474, top = 130, width = 34, height = 22, },
+  stroke = "^j",
+  label  = {ncns = "추가", ncys = "추가", ycns = "추가", ycys = "추가", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 4, },
+}
+
+Key {
+  code   = 17,
+  type   = TK_TOGGLE,
+  pos    = {left = 2, top = 154, width = 35, height = 22, },
+  stroke = "^",
+  label  = {ncns = "Ctrl", ncys = "Ctrl", ycns = "Ctrl", ycys = "Ctrl", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 7, block = 1, },
+}
+
+Key {
+  code   = 18,
+  type   = TK_TOGGLE,
+  pos    = {left = 39, top = 154, width = 35, height = 22, },
+  stroke = "%",
+  label  = {ncns = "Alt", ncys = "Alt", ycns = "Alt", ycys = "Alt", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 7, block = 1, },
+}
+
+Key {
+  code   = 91,
+  type   = TK_TOGGLE + TK_EXTENDED,
+  pos    = {left = 76, top = 154, width = 35, height = 22, },
+  stroke = "{LWin}",
+  label  = {ncns = "Win", ncys = "Win", ycns = "Win", ycys = "Win", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 7, block = 1, },
+}
+
+Key {
+  code   = 32,
+  type   = 0,
+  pos    = {left = 113, top = 154, width = 129, height = 22, },
+  stroke = " ",
+  label  = {ncns = "", ncys = "", ycns = "", ycys = "", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 7, block = 1, },
+}
+
+Key {
+  code   = 21,
+  type   = TK_SWITCH,
+  pos    = {left = 244, top = 154, width = 35, height = 22, },
+  stroke = "{Hangul}",
+  label  = {ncns = "한/영", ncys = "한/영", ycns = "한/영", ycys = "한/영", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 7, block = 2, },
+}
+
+Key {
+  code   = 25,
+  type   = 0,
+  pos    = {left = 281, top = 154, width = 35, height = 22, },
+  stroke = "{Hanja}",
+  label  = {ncns = "한자", ncys = "한자", ycns = "한자", ycys = "한자", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 7, block = 2, },
+}
+
+Key {
+  code   = 93,
+  type   = TK_EXTENDED,
+  pos    = {left = 318, top = 154, width = 35, height = 22, },
+  stroke = "{Apps}",
+  label  = {ncns = "Apps", ncys = "Apps", ycns = "Apps", ycys = "Apps", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 7, block = 2, },
+}
+
+Key {
+  code   = 17,
+  type   = TK_TOGGLE,
+  pos    = {left = 355, top = 154, width = 35, height = 22, },
+  stroke = "^",
+  label  = {ncns = "Ctrl", ncys = "Ctrl", ycns = "Ctrl", ycys = "Ctrl", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 7, block = 2, },
+}
+
+Key {
+  code   = 0,
+  type   = TK_MACRO,
+  pos    = {left = 402, top = 154, width = 34, height = 22, },
+  stroke = "^v",
+  label  = {ncns = "붙여", ncys = "붙여", ycns = "붙여", ycys = "붙여", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 1, },
+}
+
+Key {
+  code   = 0,
+  type   = TK_MACRO,
+  pos    = {left = 438, top = 154, width = 34, height = 22, },
+  stroke = "^a",
+  label  = {ncns = "모두", ncys = "모두", ycns = "모두", ycys = "모두", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 1, block = 1, },
+}
+
+Key {
+  code   = 135,
+  type   = 0,
+  pos    = {left = 474, top = 154, width = 34, height = 22, },
+  stroke = "",
+  label  = {ncns = "한글", ncys = "한글", ycns = "한글", ycys = "한글", },
+  normal = {text = RGB(204, 204, 204), face = RGB(  0,   0,   0), border = RGB(150, 150, 150), },
+  press  = {text = RGB(  0,   0,   0), face = RGB(204, 204, 204), border = RGB(204, 204, 204), },
+  scan   = {line = 4, block = 4, },
+}
