@@ -1,0 +1,588 @@
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.exe.config
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainWindow.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\weatherView.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\App.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.exe
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.pdb
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainWindow.baml
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\weatherView.baml
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.g.resources
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.exe
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.pdb
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.exe.config
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.exe
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.pdb
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.exe
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.pdb
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AlarmPage_Setting.g.cs
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainWindow.g.cs
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\WeatherView.g.cs
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\App.g.cs
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AdjustmentBox.baml
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AlarmPage_Setting.baml
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainWindow.baml
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SchedulePage_Add.baml
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\WeatherView.baml
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.g.resources
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainPage.g.cs
+H:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainPage.baml
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AlarmPage_Setting.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainPage.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AdjustmentBox.baml
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AlarmPage_Setting.baml
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainPage.baml
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SchedulePage_Add.baml
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+D:\[A_01 - Work Space]\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.exe.config
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.exe
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.pdb
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.exe
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\bin\Debug\SmartMirror.pdb
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainPage.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainWindow.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\WeatherView.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\App.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AdjustmentBox.baml
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainPage.baml
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\MainWindow.baml
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SchedulePage_Add.baml
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\WeatherView.baml
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.g.resources
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+D:\[A_01 - Work Space]\Workspace\[Visual Studio 2015] Desktop Workspace\SmartMirror\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\App.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\music_player.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월10\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\App.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\music_player.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Fullstack\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\App.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\music_player.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월21일정합침\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\App.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\music_player.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\LHS-1\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\App.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\music_player.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Park JH\Desktop\SmartMirror_1월23일_이동\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\App.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\music_player.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\LHS-1\Downloads\SmartMirror_1월23일_이동+키보드+알람연동\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\App.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\music_player.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Fullstack\Desktop\SmartMirror_1월25일_이동+키보드+알람연동+배경\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\App.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\music_player.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Park JH\Desktop\SmartMirror_1월25일_dnl위젯색변경\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\NewsWindow.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\News_Item.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\App.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\music_player.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\NewsWindow.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\News_Item.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\LHS-1\Documents\카카오톡 받은 파일\SmartMirror_1월29일_키보드수정\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\NewsWindow.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\News_Item.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\News_Web.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\App.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\music_player.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\NewsWindow.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\News_Item.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\News_Web.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\youli\Desktop\SmartMirror_1월31일_뉴스추가\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\NewsWindow.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\News_Item.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\News_Web.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\App.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\music_player.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\NewsWindow.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\News_Item.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\News_Web.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Park JH\Desktop\SmartMirror_1월31일_뉴스완성\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\NewsWindow.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\News_Item.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\News_Web.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\App.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\music_player.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\NewsWindow.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\News_Item.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\News_Web.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror.pdb
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\NewsWindow.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\News_Item.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\News_Web.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\App.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\music_player.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\NewsWindow.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\News_Item.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\News_Web.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Park JH\Desktop\SmartMirror_2월1일_최종_미완2\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\bin\Debug\SmartMirror.exe.config
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\bin\Debug\SmartMirror.exe
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\bin\Debug\SmartMirror.pdb
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror.csprojResolveAssemblyReference.cache
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\AdjustmentBox.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\AlarmPage_Add.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\Alarm_confirm.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\Alarm_list.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\MainPage.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\MainWindow.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\music_player.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\NewsWindow.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\News_Item.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\News_Web.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SchedulePage_Add.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\valueList_AdjustmentBox.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\WeatherView.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\App.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror_Content.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.cache
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror_MarkupCompile.lref
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\AdjustmentBox.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\AlarmPage_Add.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\Alarm_confirm.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\Alarm_list.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\MainPage.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\MainWindow.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\music_player.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\NewsWindow.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\News_Item.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\News_Web.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SchedulePage_Add.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\valueList_AdjustmentBox.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\WeatherView.baml
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror.g.resources
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror.Properties.Resources.resources
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror.csproj.GenerateResource.Cache
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror.exe
+C:\Users\Fullstack\Desktop\SmartMirror_2월1일_최종_미완2 (2)\SmartMirror\obj\Debug\SmartMirror.pdb
+D:\CK 사업 공모전 최종 결과물\SmartMirror_2월2일_최종\SmartMirror\bin\Debug\SmartMirror.exe.config
+D:\CK 사업 공모전 최종 결과물\SmartMirror_2월2일_최종\SmartMirror\obj\Debug\SmartMirror.exe
+D:\CK 사업 공모전 최종 결과물\SmartMirror_2월2일_최종\SmartMirror\obj\Debug\SmartMirror.pdb

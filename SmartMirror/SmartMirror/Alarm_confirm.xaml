@@ -1,0 +1,33 @@
+﻿<Window x:Class="SmartMirror.Alarm_confirm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartMirror"
+        mc:Ignorable="d"
+        Topmost="True"
+        Title="Alarm_confirm" Height="1024" Width="1280" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="Manual" WindowState="Maximized"
+        AllowsTransparency="True"
+        Background="{x:Null}">
+    <Grid>
+        <Border Name="t_alarm_confirm" Margin="519,376,461,348" Height="300" Width="300" CornerRadius="10" Background="#33000000">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="9*"/>
+                    <RowDefinition Height="2*"/>
+                </Grid.RowDefinitions>
+                <TextBox Name="alarm_content" Grid.Row="0" Text="오후 5시 30분" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" FontFamily="koverwatch" Foreground="White" BorderBrush="Transparent"/>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                    <MediaElement Name="mp" LoadedBehavior="Manual" Stretch="Fill" UnloadedBehavior="Stop" Volume="0.30" />
+                    <Button Grid.Column="1" Content="확인" FontFamily="koverwatch" Foreground="White" BorderBrush="Transparent" FontSize="20" Background="Transparent" Click="Button_Click"/>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+    
+</Window>

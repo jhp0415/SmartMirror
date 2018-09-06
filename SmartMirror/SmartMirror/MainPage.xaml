@@ -1,0 +1,111 @@
+﻿<Page x:Class="SmartMirror.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SmartMirror"
+      mc:Ignorable="d" 
+      d:DesignHeight="1024" d:DesignWidth="1280"
+      Title="MainPage">
+
+    <Page.Resources>
+        <XmlDataProvider x:Key="weatherData" Source="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4311374100" XPath="rss"/>
+    </Page.Resources>
+
+
+    <Border Name="dd">
+        <Border.Background>
+            <ImageBrush ImageSource="image/sky.jpg"/>
+        </Border.Background>
+        <DockPanel>
+
+            <Border DockPanel.Dock="Bottom" Height="10"/>
+            <Border DockPanel.Dock="Bottom" Height="70">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="1"  MouseLeftButtonUp="menu_icon_click" Source="image/button/menu.png"/>
+                </Grid>
+            </Border>
+            <Border DockPanel.Dock="Bottom" Height="10"/>
+            <Border CornerRadius="10" Background="#33FFFFFF" Name="icon_menu" DockPanel.Dock="Bottom" Height="70" Visibility="Hidden">
+                <Grid Name="icon" Visibility="Visible">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image Height="45" Source="Image/Button/Clock.png" Grid.Column="0" HorizontalAlignment="Center" MouseLeftButtonDown="clockIconEvent_Down"/>
+                    <Image Height="45" Source="image/Button/weather_icon.png" Grid.Column="1" HorizontalAlignment="Center" MouseLeftButtonUp="weatherIcon_EventUp"/>
+                    <Image Height="45" Source="Image/Button/Calendar.png" Grid.Column="2" HorizontalAlignment="Center" MouseLeftButtonDown="calendarIconEvent_Down" MouseLeftButtonUp="calendarIconEvent_Up"/>
+                    <Image Height="45" Source="image/Button/Clef.png" Grid.Column="3" HorizontalAlignment="Center" MouseLeftButtonDown="musicIconEvent_Down" MouseLeftButtonUp="musicIconEvent_Up"/>
+                    <Image Height="45" Source="image/button/schedule.png" Grid.Column="4" HorizontalAlignment="Center" MouseLeftButtonDown="scheduleIcon_EventUp"/>
+                    <Image Name="memoicon" Grid.Column="5" Height="45" Source="image/button/memo.png"  HorizontalAlignment="Center" MouseLeftButtonUp="memo_icon_click" />
+                    <Image Height="45" Source="image/button/news.png" Grid.Column="6" HorizontalAlignment="Center" MouseLeftButtonUp="Image_MouseLeftButtonUp_1"/>
+                </Grid>
+            </Border>
+
+            <Border DockPanel.Dock="Top">
+                <Grid  Background="Transparent">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="350"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Canvas Grid.Column="0">
+                        <Image Height="50" Width="50" Source="image/button/power.png" MouseLeftButtonUp="Image_MouseLeftButtonUp" RenderTransformOrigin="1.293,9.062" Canvas.Left="625" Canvas.Top="10"/>
+                        <TextBlock Grid.Column="0" x:Name="dateDisplay" FontSize="30" FontFamily="koverwatch" Foreground="White" HorizontalAlignment="Left" FontStyle="Italic" FontWeight="Bold" MouseLeftButtonUp="clockEvent_Up" Text="date" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Top" Height="52" Canvas.Left="93" Canvas.Top="50"/>
+                        <TextBlock Grid.Column="0" x:Name="timeDisplay" FontSize="50" FontFamily="koverwatch" Foreground="White" Text="Time" HorizontalAlignment="Left" FontWeight="Bold" MouseLeftButtonDown="clockEvent_Up" VerticalAlignment="Top" Height="62" RenderTransformOrigin="-0.24,0.026" Canvas.Left="93" Canvas.Top="107"/>
+                        <local:weatherView x:Name="weather" Grid.Column="0" Height="160" Width="300" HorizontalAlignment="Left" FontFamily="koverwatch" Margin="30,250,0,0" VerticalAlignment="Top" Visibility="Hidden" MouseLeftButtonDown="weather_MouseLeftButtonDown" MouseLeftButtonUp="weather_MouseLeftButtonUp"/>
+                        <local:music_player x:Name="music" Grid.Column="0" Width="300" Height="400" Margin="30,420,0,0" Visibility="Hidden"/>
+                        <TextBox Text="Memo" Name="mymemo" Width="200" Height="200" Background="#33FFFFFF" BorderBrush="Transparent" FontSize="25" Foreground="#FF4600FF" TextWrapping="Wrap"
+                 HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden" TextAlignment="Center" AcceptsReturn="True" RenderTransformOrigin="-1.303,-1.64" Margin="400,50" Focusable="False" MouseLeftButtonDown="timer_memo" MouseLeftButtonUp="Click_TextBox"/>
+           
+
+
+
+                    </Canvas>
+
+
+                    <DockPanel Grid.Column="1" Margin="13">
+                        <Viewbox DockPanel.Dock="Top" Width="300">
+                            <Calendar Name="Calendar"  HorizontalAlignment="Center" SelectedDatesChanged="clickEvent_Schedule" Background="Transparent" BorderBrush="Transparent" UseLayoutRounding="False" BorderThickness="1" ScrollViewer.CanContentScroll="True" FontFamily="Microsoft New Tai Lue" Visibility="Hidden"/>
+                        </Viewbox>
+                        <DockPanel Name="schedule_list" DockPanel.Dock="Top" Visibility="Hidden">
+                            <Grid DockPanel.Dock="Top">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="25"/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Border Grid.Row="0"  Background="#33FFFFFF" CornerRadius="5">
+                                    <TextBox Background="Transparent" BorderBrush="Transparent" Foreground="White" HorizontalAlignment="Center" Text="Schedule List"/>
+                                </Border>
+
+                                <Border Grid.Row="1" CornerRadius="5" BorderBrush="White" Background="#33000000">
+                                    <ListBox Name="scheduleList" Background="Transparent" BorderBrush="Transparent" Foreground="White" SelectionChanged="click_schedule">
+                                        <ListBoxItem  HorizontalAlignment="Center" Foreground="Aqua"></ListBoxItem>
+                                    </ListBox>
+                                </Border>
+                            </Grid>
+                            <Border>
+                                <Button x:Name="button" DockPanel.Dock="Top" Content="스케줄 삭제" HorizontalAlignment="Right" VerticalAlignment="Top" Foreground="White" Background="Transparent" BorderBrush="Transparent" Width="100" Height="30" Click="schedule_delete"/>
+                            </Border>
+                        </DockPanel>
+
+
+                    </DockPanel>
+                </Grid>
+            </Border>
+        </DockPanel>
+    </Border>
+
+
+</Page>
